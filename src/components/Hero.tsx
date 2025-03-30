@@ -1,5 +1,5 @@
 
-import myImage from './assets/my-image.jpg';
+
 
 export const Hero = () => {
     return (
