@@ -19,7 +19,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "baseUrl": "/",
+    "baseUrl": "/Brain3/",
     "paths": {
       "@/*": [
         "src/*"

@@ -1,3 +1,4 @@
+
 export const Hero = () => {
     return (
         <section className="relative py-12 lg:py-24" id="home">
